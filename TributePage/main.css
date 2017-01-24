@@ -1,0 +1,59 @@
+.bckimg {
+  background-image: url(http://www.byroncentre.com.au/wp-content/uploads/2014/02/graham-jpeg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  padding: 20px 0px;
+  color: white;
+}
+
+h1 {
+  letter-spacing: 10px;
+}
+
+ul {
+  list-style: none;
+  list-style-type: none;
+  margin-top: 15px;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 10px;
+
+}
+
+a {
+  color: black;
+  letter-spacing: 2px;
+}
+
+a:hover {
+  color: black;
+}
+
+a:after{
+  color: lightgrey;
+}
+
+a:link {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+/*@media only screen and (min-width: 650px) {
+    body {
+        background-color: lightblue;
+    }
+}*/
